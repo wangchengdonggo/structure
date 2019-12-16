@@ -1,0 +1,28 @@
+
+W
+squid:S106—"9Replace this use of System.out or System.err by a logger.(ÿï„ì8³Ìøİë-
+]squid:S1155ö">Use isEmpty() to check whether the collection is empty or not.(äÛŸ–8Äª±äë-
+{
+squid:S135k"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8âêŞİë-
+W
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(ÿï„ì8•ß°Üë-
+{
+squid:S135)"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¾ÏçÜë-
+{
+squid:S135K"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Š¯µİë-
+}squid:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó­½Ûüÿÿÿÿ8ŒÔ«äë-
+V
+squid:S106^"9Replace this use of System.out or System.err by a logger.(óƒÏ¬8¤£Õİë-
+\
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8¹‘¸Üë-
+tsquid:S1149ì"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ó­½Ûüÿÿÿÿ8ŒÔ«äë-
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(‚®òŠıÿÿÿÿ8ÙÌ¸İë-
+[
+squid:S106g"9Replace this use of System.out or System.err by a logger.(‚®òŠıÿÿÿÿ8âêŞİë-
+W
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(ÊØ¡Œ8Äª±äë-
+V
+squid:S106~"9Replace this use of System.out or System.err by a logger.(óƒÏ¬8âêŞİë-
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(Ì‚‡´øÿÿÿÿ8Àî¤İë-

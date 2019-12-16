@@ -1,0 +1,30 @@
+
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëóœ¶şÿÿÿÿ8®¿ôÚë-
+fsquid:S00112™"FDefine and throw a dedicated exception instead of using a generic one.(ÖÒ·8¿ÈıÚë-
+V
+squid:S106p"9Replace this use of System.out or System.err by a logger.(¦Ò¿é8®¿ôÚë-
+esquid:S00112~"FDefine and throw a dedicated exception instead of using a generic one.(ÖÒ·8®¿ôÚë-
+\
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ó’ßüùÿÿÿÿ8®¿ôÚë-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó¹œÛ8µ¯²Ûë-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û®ıúÿÿÿÿ8µ¯²Ûë-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆïàÊüÿÿÿÿ8µ¯²Ûë-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ı·ùô8µ¯²Ûë-
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(àŞ»ºşÿÿÿÿ8µ¯²Ûë-
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ãÒ‚»ÿÿÿÿÿ8µ¯²Ûë-
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8µ¯²Ûë-
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8µ¯²Ûë-
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8µ¯²Ûë-
+[
+squid:S106B"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8µ¯²Ûë-
+Zsquid:S1854"7Remove this useless assignment to local variable "key".(ûääüÿÿÿÿ8µ¯²Ûë-

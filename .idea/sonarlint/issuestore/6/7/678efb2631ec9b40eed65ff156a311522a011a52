@@ -1,0 +1,28 @@
+
+V
+squid:S106T"9Replace this use of System.out or System.err by a logger.(®²ÖŒ8èæ©æé-
+Vsquid:S1197a"8Move the array designator from the variable to the type.(ü’Å“8ŠçŸçé-
+qsquid:S20959"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¤‡ƒüÿÿÿÿ8Üµ–äé-
+V
+squid:S106/"9Replace this use of System.out or System.err by a logger.(¢©ÍÍ8÷Ù–ãé-
+osquid:S2095:"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(Äæêq8Üµ–äé-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜¨Ãıÿÿÿÿ8 £ñãé-
+Vsquid:S1197""8Move the array designator from the variable to the type.(È¢«8÷Ù–ãé-
+rsquid:S00100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù×İÿÿÿÿÿ8‘ò¾åé-
+[squid:S1197"8Move the array designator from the variable to the type.(– Î€şÿÿÿÿ8÷Ù–ãé-
+dsquid:S2147“"ECombine this catch with the one at line 145, which has the same body.(ï­£Ä8Ó®’çé-
+[squid:S2589…"7Remove this expression which always evaluates to "true"(ø“ øÿÿÿÿ8şØ¥çé-
+qsquid:S2259^"NA "NullPointerException" could be thrown; "newSpaChessboard" is nullable here.(Üâ¥Ùşÿÿÿÿ8şØ¥çé-
+\squid:S1197‡"8Move the array designator from the variable to the type.(¥èÁÊúÿÿÿÿ8‡Ê•çé-
+dsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(›¸©¿ùÿÿÿÿ8øÚåé-
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(øÑ›ò8÷Ù–ãé-
+[squid:S1197w"8Move the array designator from the variable to the type.(™Œûÿÿÿÿ8áÊ¤æé-
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(èÀ—‡şÿÿÿÿ8ŠçŸçé-
+osquid:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(¢©ÍÍ8÷Ù–ãé-
+[squid:S1197S"8Move the array designator from the variable to the type.(ı•”ñûÿÿÿÿ8Ğ‡¨æé-
+Jsquid:S1481="'Remove this unused "co" local variable.(ãŠÌïûÿÿÿÿ8›Àáäé-
+Msquid:S2093x"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8‘ò¾åé-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8÷Ù–ãé-
