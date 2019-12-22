@@ -16,6 +16,10 @@ public class SingleLinkedList {
 	//初始化头节点
 	private HeroNode head = new HeroNode(0, "", "");
 
+
+	public HeroNode getHeroNode(){
+		return this.head;
+	}
 	//添加(在最后节点添加)
 	public void add(HeroNode newHeroNode){
 
@@ -246,5 +250,29 @@ public class SingleLinkedList {
 		while (stack.size() > 0){
 			System.out.println(stack.pop());
 		}
+	}
+
+	/***
+	 * 合并两个有序单链表(用到递归)
+	 * @param a
+	 * @param b
+	 * @return
+	 */
+	public  HeroNode mergeList(HeroNode a,HeroNode b) {
+		HeroNode result = null;
+		if (a == null) {
+			return b;
+		}
+		if (b == null) {
+			return a;
+		}
+		if (a.getNo() <= b.getNo()) {
+			result = a;
+			result.setNextHeroNode(mergeList(a.getNextHeroNode(), b));
+		} else {
+			result = b;
+			result.setNextHeroNode(mergeList(a, b.getNextHeroNode()));
+		}
+		return result;
 	}
 }

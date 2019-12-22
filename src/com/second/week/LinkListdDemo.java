@@ -14,7 +14,7 @@ public class LinkListdDemo {
 
 		HeroNode heroNode3 = new HeroNode(3,"小张","HQ");
 		HeroNode heroNode2 = new HeroNode(2,"小李","DD");
-	    /*SingleLinkedList singleLinkedList = new SingleLinkedList();
+	    SingleLinkedList singleLinkedList = new SingleLinkedList();
 		singleLinkedList.addOrderBy(heroNode1);
 		singleLinkedList.addOrderBy(heroNode3);
 		singleLinkedList.addOrderBy(heroNode2);
@@ -23,7 +23,27 @@ public class LinkListdDemo {
 
 		singleLinkedList.list();
 		System.out.println("有效个数节点个数=" +  singleLinkedList.size());
-		HeroNode newHero = new HeroNode(2,"小赵","ZZ");
+
+
+		HeroNode heroNode4= new HeroNode(1,"小王","PJ");
+
+		HeroNode heroNode5 = new HeroNode(4,"小刘","HQ");
+		HeroNode heroNode6 = new HeroNode(5,"小狗","DD");
+		SingleLinkedList singleLinkedList2 = new SingleLinkedList();
+		singleLinkedList2.addOrderBy(heroNode4);
+		singleLinkedList2.addOrderBy(heroNode5);
+		singleLinkedList2.addOrderBy(heroNode6);
+
+		singleLinkedList2.list();
+
+		System.out.println("有效个数节点个数=" +  singleLinkedList2.size());
+		SingleLinkedList s =  new SingleLinkedList();
+		HeroNode heroNode = s.mergeList(singleLinkedList.getHeroNode(),singleLinkedList2.getHeroNode());
+		s.add(heroNode);
+
+		s.list();
+
+		/*HeroNode newHero = new HeroNode(2,"小赵","ZZ");
 
 
 
@@ -49,11 +69,13 @@ public class LinkListdDemo {
 
 
 
+/*
 		DoubleLindedList doubleLindedList = new DoubleLindedList();
 		doubleLindedList.addOrderBy(heroNode1);
 		doubleLindedList.addOrderBy(heroNode3);
 		doubleLindedList.addOrderBy(heroNode2);
 		doubleLindedList.list();
+*/
 
 
 	/*	System.out.println("更新------------");
